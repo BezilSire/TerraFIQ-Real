@@ -1,0 +1,6 @@
+{
+  "name": "TerraFIQ — Physical AI for Energy Efficiency",
+  "description": "Every joule, accounted for. TerraFIQ combines physical energy sensors with local AI agents to eliminate waste and build the next layer of energy infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
